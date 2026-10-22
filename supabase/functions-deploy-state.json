@@ -1,0 +1,13 @@
+{
+  "projectId": "72263988",
+  "functions": {
+    "rag-process": {
+      "hasChanged": false,
+      "hash": "cd01ab1e6fc40c907ede5505104d386f563ce7b13d17349f423ffafb9a1c5f4a"
+    },
+    "rag-query": {
+      "hasChanged": false,
+      "hash": "34929eaed3c2851a41acc18d52ce73d373df69e51c66e4086b4dbceab1be09c2"
+    }
+  }
+}

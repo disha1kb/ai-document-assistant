@@ -1,0 +1,5 @@
+[functions.rag-process]
+verify_jwt = false
+
+[functions.rag-query]
+verify_jwt = false
